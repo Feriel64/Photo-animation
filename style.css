@@ -1,0 +1,26 @@
+.parent{
+    background:rgb(232, 211, 215);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.parent div{
+    padding: 10px;
+    margin:10px;
+}
+h1{
+    background:5px pink;
+    text-align: center;
+}
+div img{
+    width: 300px;
+    height: 300px;
+    border:2px solid blue;
+    border-radius: 13px;
+
+}
+button:hover{
+    background: #00c6fb;
+}
